@@ -10,6 +10,9 @@ import 'package:flutter/material.dart';
 //colocada na hora de criar a chave de assinatura
 //se isso acontecer esqueca vc nao poderá mais atualizar o app.
 //terá que lançar um novo app.
+
+
+//Adding a launcher icon
 //https://docs.flutter.dev/deployment/android
 
 //Flutter's build modes
